@@ -12,7 +12,9 @@ public class Gravitacija {
         
         double a = (C*M)/((r+v)*(r+v));
 
-        System.out.println(a);
+        System.out.println("Nadmorska višina: " + n);
+
+        System.out.println("Gravitacijski pospešek: " + a);
 
         //System.out.println("OIS je zakon!");
 
