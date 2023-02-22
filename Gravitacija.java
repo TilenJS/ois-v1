@@ -16,7 +16,5 @@ public class Gravitacija {
 
         System.out.println("Gravitacijski pospešek: " + a);
 
-        //System.out.println("OIS je zakon!");
-
     }
 }
