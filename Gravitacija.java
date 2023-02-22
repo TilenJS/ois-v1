@@ -12,7 +12,9 @@ public class Gravitacija {
         
         double a = (C*M)/((r+v)*(r+v));
 
-        System.out.println(a);
+        //System.out.println(a);
+
+        System.out.println("OIS je zakon!");
 
     }
 }
