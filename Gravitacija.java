@@ -17,7 +17,7 @@ public class Gravitacija {
         double C = Double.parseDouble("6.674E-11");
         double M = Double.parseDouble("5.972E24");
         double r = Double.parseDouble("6.371E6");
-        double a = (CM)/((r+v)(r+v));
+        double a = (C*M)/((r+v)*(r+v));
 
         return a;
     }
